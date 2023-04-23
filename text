@@ -1,0 +1,132 @@
+// 1 - Faça um programa que apareça um alert no seu browser com a frase Hello World!.  - Introdução.
+
+// alert('Hello World!');
+
+// 2 - Faça um programa que imprima 'Hello World!' no console do browser.
+
+
+// 3 - Faça um programa que imprima uma variável que resulte undefined no console do browser. - Variável.
+
+
+// 4- Faça um programa que inicialize uma variável com o valor 'Sou uma programadora'.
+
+
+// 5- Faça um programa que modifique a sua variável atribuindo o valor anterior por "Sou full stack".
+
+
+
+// 6 - Faça um programa que atribua uma string a uma variável, depois reatribua com number. - Tipos de Dados.
+
+
+// 8 - Faça um programa que atribua a duas variáveis strings e concatene as duas.
+
+
+// 9- Faça um programa que some os dois números atribuídos as variáveis.
+
+
+// 10- Faça um programa que atribua a uma variável o null.
+
+
+// 11 - Faça um programa que atribua a uma variável um valor boolean. - Operador Lógico.
+
+
+//7 - Faça um programa que atribua o retorno de uma variável com dus linhas diferentes. - Quebra de Linha
+
+
+// 12 - Faça um programa que atribua dois números a duas variáveis e coloque o resultado numa terceira variável. - Operação Aritmética.
+
+
+// 13- Faça um programa que diminua do total da anterior.
+
+
+// 14 - Faça um programa que multiplique as variaveis.
+
+
+
+// 15- Faça um programa que uma nova variável e divida.
+
+
+
+// 16 - Faça um programa que tire o módulo das variáveis.
+
+
+
+//17 - Faça um programa que incremente a variavel.
+
+
+
+// 18 - Faça um programa que incremente a variavel.
+
+
+
+// 19- Faça um programa com uma variável com o seu nome
+
+
+
+// 20- Faça um programa que declare uma variável com a sua idade
+
+
+// 21- Faça um programa que declare uma variável com a sua comida favorita e não atribua valor
+
+
+// 22- Faça um programa que atribua valor para sua comida favorita
+
+
+
+// 23- Faça um programa que declare 5 variáveis diferentes sem valores.
+
+
+
+// 24 - Faça um programa que declare uma variável contendo uma string
+
+
+// 25 - Faça um programa que declare uma variável contendo um numero dentro de uma string.
+
+
+
+// 26 - Faça um programa que declare uma variável com a sua idade.
+
+
+
+// 27 - Faça um programa que declare duas variáveis, uma com seu nome e outro com seu sobrenome e as some.
+
+
+// 28 - Faça um programa que coloque a seguinte frase em uma variável: It's time.
+
+
+// 29 - Faça um programa que crie duas expressões que retornem NaN.
+
+
+// 30 - Faça um programa que some a string '200' com o número 50 e retornar 250.
+
+
+// 31 - Faça um programa que incremente o número 5 e retorne o seu valor incrementado.
+
+
+// 32 - Faça um programa que divida o peso por 2?
+
+
+// 33 - Faça um programa que some dois numeros.
+
+
+//32 - Faça um programa que multiplique 2 numeros e o resultado adicione 10.
+
+
+// 33 -Faça um programa que encontre a raiz quadrada de um numero, multiplique o resultado por 10 e divida por 33.
+
+
+// 34 - Faca um programa que inicie com dois nomes, e o programa imprima na tela o seguinte dado: Ola meu nome é (nome1) e minha partner do ninastech e (nome2)
+
+
+
+// 35 -  Faça um programa que imprima na tela se um nome é igual ao outro nome digitado, ex noah e noah, imprime true e noah e maria imprime false.
+
+
+
+// 35 - Faça um programa que imprima na tela se um nome é diferente ao outro nome digitado.
+
+
+
+// 36 - Faça um programa que imprima na tela se um nome é igual ao outro nome digitado. Porém os dois nomes devem estar em um Array. ex. const array = ['joao', 'maria'], joao e joao, imprime false, joao e maria, imprime true.
+
+
