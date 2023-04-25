@@ -83,50 +83,45 @@
 // 25 - Faça um programa que declare uma variável contendo um numero dentro de uma string.
 
 
-
-// 26 - Faça um programa que declare uma variável com a sua idade.
-
+// 26 - Faça um programa que declare duas variáveis, uma com seu nome e outro com seu sobrenome e as some.
 
 
-// 27 - Faça um programa que declare duas variáveis, uma com seu nome e outro com seu sobrenome e as some.
+// 27 - Faça um programa que coloque a seguinte frase em uma variável: It's time.
 
 
-// 28 - Faça um programa que coloque a seguinte frase em uma variável: It's time.
+// 28 - Faça um programa que crie duas expressões que retornem NaN.
 
 
-// 29 - Faça um programa que crie duas expressões que retornem NaN.
+// 29 - Faça um programa que some a string '200' com o número 50 e retornar 250.
 
 
-// 30 - Faça um programa que some a string '200' com o número 50 e retornar 250.
+// 30 - Faça um programa que incremente o número 5 e retorne o seu valor incrementado.
 
 
-// 31 - Faça um programa que incremente o número 5 e retorne o seu valor incrementado.
+// 31 - Faça um programa que divida o peso por 2?
 
 
-// 32 - Faça um programa que divida o peso por 2?
+// 32 - Faça um programa que some dois numeros.
 
 
-// 33 - Faça um programa que some dois numeros.
+//33 - Faça um programa que multiplique 2 numeros e o resultado adicione 10.
 
 
-//32 - Faça um programa que multiplique 2 numeros e o resultado adicione 10.
+// 34 -Faça um programa que encontre a raiz quadrada de um numero, multiplique o resultado por 10 e divida por 33.
 
 
-// 33 -Faça um programa que encontre a raiz quadrada de um numero, multiplique o resultado por 10 e divida por 33.
-
-
-// 34 - Faca um programa que inicie com dois nomes, e o programa imprima na tela o seguinte dado: Ola meu nome é (nome1) e minha partner do ninastech e (nome2)
+// 35 - Faca um programa que inicie com dois nomes, e o programa imprima na tela o seguinte dado: Ola meu nome é (nome1) e minha partner do ninastech e (nome2)
 
 
 
-// 35 -  Faça um programa que imprima na tela se um nome é igual ao outro nome digitado, ex noah e noah, imprime true e noah e maria imprime false.
+// 36 -  Faça um programa que imprima na tela se um nome é igual ao outro nome digitado, ex noah e noah, imprime true e noah e maria imprime false.
 
 
 
-// 35 - Faça um programa que imprima na tela se um nome é diferente ao outro nome digitado.
+// 37 - Faça um programa que imprima na tela se um nome é diferente ao outro nome digitado.
 
 
 
-// 36 - Faça um programa que imprima na tela se um nome é igual ao outro nome digitado. Porém os dois nomes devem estar em um Array. ex. const array = ['joao', 'maria'], joao e joao, imprime false, joao e maria, imprime true.
+// 38 - Faça um programa que imprima na tela se um nome é igual ao outro nome digitado. Porém os dois nomes devem estar em um Array. ex. const array = ['joao', 'maria'], joao e joao, imprime false, joao e maria, imprime true.
 
 
